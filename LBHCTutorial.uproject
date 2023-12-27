@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "LimbBasedHealthComponent",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.laucher://ue/marketplace/product/955443b6f06943c88fd4813656d5b59f"
+		}
+	]
+}
